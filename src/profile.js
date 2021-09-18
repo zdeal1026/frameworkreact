@@ -70,23 +70,23 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
+    name: "AskOracle",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/DevinPawline/Ask_Oracle",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Electronic Medical Record",
+    skills: ["HTML, CSS, JS, React, NodeJS"],
+    url: "https://github.com/Donchiz77/EMA",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
+    name: "Note Taker App",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/zdeal1026/note_taker",
   },
   {
     // Add image in './styles/images.css' in #project4
