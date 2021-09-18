@@ -137,10 +137,9 @@ const miscellaneous = [
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
 // To get your own jotform link, go to https://formspree.io/
 // If you hacve the link already, paste it in the contactUrl below
-const section5Title = "Get in Touch";
+const section5Title = "Contact me!";
 const contact = {
-  pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
+  pitch: "Feel free to contact me with any questions or comments!",
   copyright: "Zach Deal",
   contactUrl: "",
 };
@@ -149,7 +148,8 @@ const contact = {
 const social = {
   github: "https://github.com/zdeal1026",
   linkedin: "https://linkedin.com/in/zdeal1026",
-  resume: "https://novoresume.com/",
+  resume:
+    "https://github.com/zdeal1026/zd-portfolio/blob/main/images/ResumeUpdate.pdf",
 };
 // Dont change anything here
 export {
