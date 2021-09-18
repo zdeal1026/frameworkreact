@@ -85,29 +85,29 @@ const projects = [
     // Add image in './styles/images.css' in #project3
     id: "project3",
     name: "Note Taker App",
-    skills: ["HTML, CSS, JS"],
+    skills: ["HTML, CSS, JS, NodeJS, Express"],
     url: "https://github.com/zdeal1026/note_taker",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
-    name: "Project 4",
+    name: "Employee Tracker",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/zdeal1026/employee_tracker",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Project 5",
+    name: "Eccomerce Backend",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/zdeal1026/ecommerce_backend",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Project 6",
+    name: "Team Profile Generator",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/zdeal1026/TeamProfile_generator",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
