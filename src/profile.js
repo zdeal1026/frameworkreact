@@ -9,18 +9,18 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Human",
+  name: "Zach",
 };
 const background = {
   // Options: Snow or Particle
-  type: "Snow",
+  type: "Particle",
 };
 // Write a para about yourself here
 // To update your image, go to './styles/images.css'
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "I'm new to web development! I spent the last 10 years as a \"do-it-all\" Cardiovascular tech and I'm looking for a change! I have always been interested in post-processing and PACS administration. This infatuation lead to wanting to understand how programs work. This lead to my new love of coding! ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -52,29 +52,14 @@ const skillsBar = [
     faClass: "fab fa-node",
   },
   {
-    name: "Python",
-    // svg: '',
-    faClass: "fab fa-python",
-  },
-  {
     name: "Java",
     // svg: '',
     faClass: "fab fa-java",
   },
   {
-    name: "PHP",
-    // svg: '',
-    faClass: "fab fa-php",
-  },
-  {
     name: "Database",
     // svg: '',
     faClass: "fas fa-database",
-  },
-  {
-    name: "AWS",
-    // svg: '',
-    faClass: "fab fa-aws",
   },
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
@@ -128,25 +113,25 @@ const projects = [
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
-const section4Title = "Miscellaneous";
+const section4Title = "Education";
 const miscellaneous = [
-  {
-    // Add image in './styles/images.css' in #misc1
-    id: "misc1",
-    name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
-  },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
-    name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
+    name: "Associate of Applied Science-Radiography",
+    //url: "https://github.com/kaustubhai",
+  },
+  {
+    // Add image in './styles/images.css' in #misc1
+    id: "misc1",
+    name: "Bachelor of Science in Business Administration",
+    //url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
-    name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
+    name: "Certificate, Coding Bootcamp",
+    //url: "https://github.com/kaustubhai",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
@@ -156,17 +141,14 @@ const section5Title = "Get in Touch";
 const contact = {
   pitch:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
+  copyright: "Zach Deal",
   contactUrl: "",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
-  // twitter: "https://twitter.com",
-  instagram: "https://instagram.com",
-  linkedin: "https://linkedin.com",
+  github: "https://github.com/zdeal1026",
+  linkedin: "https://linkedin.com/in/zdeal1026",
   resume: "https://novoresume.com/",
 };
 // Dont change anything here
