@@ -141,7 +141,7 @@ const section5Title = "Contact me!";
 const contact = {
   pitch: "Feel free to contact me with any questions or comments!",
   copyright: "Zach Deal",
-  contactUrl: "",
+  contactUrl: "https://formspree.io/f/xvodlbol",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
