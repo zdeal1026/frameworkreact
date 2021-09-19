@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "I'm new to web development! I spent the last 10 years as a \"do-it-all\" Cardiovascular tech and I'm looking for a change! I have always been interested in post-processing and PACS administration. This infatuation lead to wanting to understand how programs work. This lead to my new love of coding! ",
+    "I'm new to web development! I spent the last 10 years as a \"do-it-all\" Cardiovascular tech and I'm looking for a change! I have always been interested in post-processing and PACS administration. This infatuation has lead to a desire to understand how programs work.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -92,21 +92,21 @@ const projects = [
     // Add image in './styles/images.css' in #project4
     id: "project4",
     name: "Employee Tracker",
-    skills: ["HTML, CSS, JS"],
+    skills: ["HTML, CSS, JS, NodeJS, Express"],
     url: "https://github.com/zdeal1026/employee_tracker",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
     name: "Eccomerce Backend",
-    skills: ["HTML, CSS, JS"],
+    skills: ["HTML, CSS, JS, NodeJS, Express"],
     url: "https://github.com/zdeal1026/ecommerce_backend",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
     name: "Team Profile Generator",
-    skills: ["HTML, CSS, JS"],
+    skills: ["HTML, CSS, JS, NodeJS, Express"],
     url: "https://github.com/zdeal1026/TeamProfile_generator",
   },
 ];
