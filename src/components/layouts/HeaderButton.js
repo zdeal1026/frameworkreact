@@ -6,7 +6,21 @@ const HeaderButton = () => {
       <div className="mx-auto">
         <a href="#about">
           <button className="see">
-            Deployed Projects!<i className="fas fa-eye"></i>
+            Checkout Portfolio<i className="fas fa-eye"></i>
+          </button>
+        </a>
+      </div>
+      <div className="mx-auto">
+        <a href="#about">
+          <button className="see">
+            Checkout Portfolio<i className="fas fa-eye"></i>
+          </button>
+        </a>
+      </div>
+      <div className="mx-auto">
+        <a href="#about">
+          <button className="see">
+            Checkout Portfolio<i className="fas fa-eye"></i>
           </button>
         </a>
       </div>

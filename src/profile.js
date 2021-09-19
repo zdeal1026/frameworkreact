@@ -1,7 +1,7 @@
 // Change website animations
 const animation = {
   // make it false to switch off fade-up animation
-  animate: true,
+  animate: false,
   // animation playing duration
   duration: 750,
   // if true, animation plays only once when element comes on screen
