@@ -25,7 +25,7 @@ button:focus {
   display: flex;
   flex-direction: column;
   font-family: Montserrat, sans-serif;
-  color: blueviolet;
+  color: rgb(28, 228, 228);
 }
 .Header h1 {
   color: #000;
@@ -68,7 +68,7 @@ button:focus {
 .effect2 {
   position: relative;
   width: 70%;
-  background: #fff;
+  background: white;
   padding: 5%;
   margin: 10% auto;
   border-bottom: solid 1px #777 !important;

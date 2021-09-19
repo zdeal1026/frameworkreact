@@ -20,7 +20,6 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Particles />
       <About />
       <Works />
       <Contact />
