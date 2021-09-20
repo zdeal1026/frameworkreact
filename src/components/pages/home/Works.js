@@ -1,5 +1,5 @@
 import React from "react";
-import Project from "../layouts/Project";
+import Project from "../projects/Project";
 import {
   projects,
   miscellaneous,

@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
-import Header from "./components/section/Header";
-import About from "./components/section/About";
-import Works from "./components/section/Works";
-import Contact from "./components/section/Contact";
+import Header from "../src/components/Header/Header";
+import About from "../src/components/pages/home/About";
+import Works from "../src/components/pages/home/Works";
+import Contact from "../src/components/pages/contact/Contact";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { animation } from "./profile";
