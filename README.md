@@ -22,7 +22,11 @@
 
 ## Description
 
+This is a updated portfolio using a react application.
+
 ## Installation
+
+To create run this application, you will need to create a react app (npx create-react-app). Once you have the app created you will need to install (npm install) the dependencies used.
 
 ## Usage
 

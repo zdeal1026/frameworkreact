@@ -7,7 +7,7 @@ body {
   background-color: purple;
 }
 html.dark-mode {
-  background-color: rgba(0, 0, 255, 0.527);
+  background-color: rgba(18, 18, 31, 0.527);
 }
 button:focus {
   outline: 1px solid #777 !important;
@@ -29,18 +29,13 @@ button:focus {
 }
 .Header h1 {
   color: #000;
-  text-align: left;
+
   font-size: 5.5rem;
   position: absolute;
 }
 .Header p {
   margin-top: 125px;
   text-align: right;
-}
-.particle {
-  position: absolute!;
-  margin: 0 !important;
-  margin-top: -100vh !important;
 }
 .underline {
   text-decoration: underline;
