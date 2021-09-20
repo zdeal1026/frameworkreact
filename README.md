@@ -22,7 +22,7 @@
 
 ## Description
 
-This is a updated portfolio using a react application.
+This is a updated portfolio using a react application. I started to rebuild this application because I didn't reallly like it but I ran short on time. I look forward to coming back and finishing this correctly with a navbar that links to the project. It's kind of hard because all of my attention is on project 3 at this point and it's hard to focus on it. I have already deployed this to github pages so I left what I had and didnt redeploy what I have now because the application is broken. 
 
 ## Installation
 
