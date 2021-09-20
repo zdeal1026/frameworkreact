@@ -1,5 +1,5 @@
 import React from "react";
-import { contact, section5Title, social } from "../../profile";
+import { contact, section5Title, social } from "../../../profile";
 
 const Contact = () => {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
-import Skills from "../layouts/Skills";
-import { about, skillsBar, section2title } from "../../profile";
+import Skills from "../../layouts/Skills";
+import { about, skillsBar, section2title } from "../../../profile";
 
 const About = () => {
   return (

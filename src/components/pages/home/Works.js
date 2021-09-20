@@ -5,7 +5,7 @@ import {
   miscellaneous,
   section3Title,
   section4Title,
-} from "../../profile";
+} from "../../../profile";
 
 const Works = () => {
   return (
